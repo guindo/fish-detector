@@ -3,3 +3,8 @@
 
 
 https://notebooks.gesis.org/binder/jupyter/user/guindo-fish-detector-op4dnqs3/tree
+
+
+Reqirement
+voila
+fastai
